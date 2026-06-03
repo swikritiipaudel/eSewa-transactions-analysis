@@ -32,9 +32,9 @@ eSewa is one of Nepal's leading digital payment platforms. This project analyzes
 ## Dashboard Pages
 
 ### 1. Overall KPIs
-High-level summary of total revenue, transaction count, average transaction value, and success rate.
+High level summary of total revenue, transaction count, average transaction value, and success rate.
 
-![KPIs](screenshots/KPIs.png)
+![KPIs](KPIs.png)
 
 ### 2. Revenue Overview
 - Monthly revenue trend showing a decline from NPR 1M (November) to NPR 0.6M (January)
@@ -43,7 +43,7 @@ High-level summary of total revenue, transaction count, average transaction valu
 - Month-over-Month (MoM) growth analysis
 - Transactions split equally across Agent, Mobile App, and Web channels (33.3% each)
 
-![Revenue Overview](screenshots/Revenue_Overview.png)
+![Revenue Overview](Revenue%20Overview.png)
 
 ### 3. Customer & Transaction Analysis
 - Revenue by age group — Young Adults are the highest spenders
@@ -52,7 +52,7 @@ High-level summary of total revenue, transaction count, average transaction valu
 - Top 10 customers by revenue
 - Transaction size distribution — Medium (43.9%), Large (40.3%), Small (15.8%)
 
-![Customer and Transaction Analysis](screenshots/Customer_and_Transaction_Analysis.png)
+![Customer and Transaction Analysis](Customer%20and%20Transaction%20Analysis.png)
 
 ---
 
